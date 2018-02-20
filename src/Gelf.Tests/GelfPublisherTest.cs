@@ -4,6 +4,7 @@ using System.Net.Sockets;
 using System.Threading;
 using Newtonsoft.Json.Linq;
 using NUnit.Framework;
+using Gelf;
 
 namespace Gelf.Tests
 {

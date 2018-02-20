@@ -56,7 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Gelf\Gelf.csproj">
-      <Project>{C20DEA11-D36B-4CF9-84FE-6F1EBCDAD740}</Project>
+      <Project>{c20dea11-d36b-4cf9-84fe-6f1ebcdad740}</Project>
       <Name>Gelf</Name>
     </ProjectReference>
   </ItemGroup>

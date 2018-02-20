@@ -1,0 +1,12 @@
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf.Tests\obj\Debug\Gelf.Tests.csprojResolveAssemblyReference.cache
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf.Tests\obj\Debug\Gelf.Tests.csproj.CoreCompileInputs.cache
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf.Tests\bin\Debug\Gelf.Tests.dll
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf.Tests\bin\Debug\Gelf.Tests.pdb
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf.Tests\bin\Debug\Gelf.dll
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf.Tests\bin\Debug\nunit.framework.dll
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf.Tests\bin\Debug\Gelf.pdb
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf.Tests\bin\Debug\nunit.framework.xml
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf.Tests\obj\Debug\Gelf.Tests.dll
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf.Tests\obj\Debug\Gelf.Tests.pdb

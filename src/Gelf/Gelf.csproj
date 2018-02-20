@@ -41,17 +41,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ChunkedMessageHelper.cs" />
-    <Compile Include="Extensions.cs" />
     <Compile Include="Constants.cs" />
+    <Compile Include="Extensions.cs" />
     <Compile Include="GelfMessage.cs" />
     <Compile Include="GelfPublisher.cs" />
     <Compile Include="IGelfPublisher.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Gelf.nuspec">
-      <SubType>Designer</SubType>
-    </None>
+    <None Include="Gelf.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

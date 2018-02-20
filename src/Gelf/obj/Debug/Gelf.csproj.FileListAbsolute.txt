@@ -1,0 +1,8 @@
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf\bin\Debug\Gelf.dll
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf\bin\Debug\Gelf.pdb
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf\obj\Debug\Gelf.csproj.CoreCompileInputs.cache
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf\obj\Debug\Gelf.dll
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf\obj\Debug\Gelf.pdb
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\Gelf\obj\Debug\Gelf.csprojResolveAssemblyReference.cache

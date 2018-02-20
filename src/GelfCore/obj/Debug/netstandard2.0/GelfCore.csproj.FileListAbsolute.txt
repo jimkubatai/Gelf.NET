@@ -1,0 +1,9 @@
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\GelfCore\bin\Debug\netstandard2.0\GelfCore.deps.json
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\GelfCore\bin\Debug\netstandard2.0\GelfCore.dll
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\GelfCore\obj\Debug\netstandard2.0\GelfCore.csprojResolveAssemblyReference.cache
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\GelfCore\obj\Debug\netstandard2.0\GelfCore.csproj.CoreCompileInputs.cache
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\GelfCore\obj\Debug\netstandard2.0\GelfCore.AssemblyInfoInputs.cache
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\GelfCore\obj\Debug\netstandard2.0\GelfCore.AssemblyInfo.cs
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\GelfCore\bin\Debug\netstandard2.0\GelfCore.pdb
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\GelfCore\obj\Debug\netstandard2.0\GelfCore.dll
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\GelfCore\obj\Debug\netstandard2.0\GelfCore.pdb

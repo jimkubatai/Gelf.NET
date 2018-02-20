@@ -1,0 +1,8 @@
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\GelfCore\obj\Debug\netstandard2.0\Gelf.Standart20.csproj.CoreCompileInputs.cache
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\GelfCore\obj\Debug\netstandard2.0\Gelf.Standart20.AssemblyInfoInputs.cache
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\GelfCore\obj\Debug\netstandard2.0\Gelf.Standart20.AssemblyInfo.cs
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\GelfCore\bin\Debug\netstandard2.0\Gelf.Standart20.deps.json
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\GelfCore\bin\Debug\netstandard2.0\Gelf.Standart20.dll
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\GelfCore\bin\Debug\netstandard2.0\Gelf.Standart20.pdb
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\GelfCore\obj\Debug\netstandard2.0\Gelf.Standart20.dll
+C:\Users\dchernyakov\Documents\GitHub\Gelf.NET\src\GelfCore\obj\Debug\netstandard2.0\Gelf.Standart20.pdb
