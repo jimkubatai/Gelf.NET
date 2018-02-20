@@ -23,7 +23,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{CED62E
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gelf.Standart20", "GelfCore\Gelf.Standart20.csproj", "{569E84AD-D36F-4B86-8D49-A09D034BA1A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gelf.Standart20", "Gelf.Standart20\Gelf.Standart20.csproj", "{569E84AD-D36F-4B86-8D49-A09D034BA1A9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Framework40", "Framework40", "{D8517693-89D6-4790-852E-D775F136C46C}"
 EndProject
