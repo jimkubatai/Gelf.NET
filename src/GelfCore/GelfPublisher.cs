@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Net.Sockets;
 using Newtonsoft.Json;
 
-namespace Gelf.Standart20
+namespace Gelf
 {
     /// <summary>
     /// UDP publisher to send Gelf messages to a Graylog server

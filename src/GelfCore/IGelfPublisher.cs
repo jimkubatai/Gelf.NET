@@ -1,4 +1,4 @@
-﻿namespace Gelf.Standart20
+﻿namespace Gelf
 {
     public interface IGelfPublisher
     {

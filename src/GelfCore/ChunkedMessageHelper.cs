@@ -4,9 +4,9 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace Gelf.Standart20
+namespace Gelf
 {
-    internal static class ChunkedMessageHelper
+    public static class ChunkedMessageHelper
     {
         public static byte[] GetMessageChunkFull(byte[] bytes, string messageId, int i, int chunkCount)
         {

@@ -3,9 +3,9 @@ using System.IO;
 using System.IO.Compression;
 using System.Text;
 
-namespace Gelf.Standart20
+namespace Gelf
 {
-    internal static class Extensions
+    public static class Extensions
     {
         /// <summary>
         /// Gzips a string

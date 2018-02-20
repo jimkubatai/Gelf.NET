@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 
-namespace Gelf.Standart20
+namespace Gelf
 {
     public class GelfMessage : Dictionary<string, object>
     {
